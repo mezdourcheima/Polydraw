@@ -1,0 +1,655 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MindFusion.Diagramming.Wpf.DrawImport</name>
+    </assembly>
+    <members>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.MeasureUnit">
+            <summary>
+            Specifies units of measure.
+            </summary>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.#ctor(System.Int32,System.String,MindFusion.Diagramming.Wpf.Import.MeasureUnitType,System.Double,System.Int32)">
+            <summary>
+            Initializes one of the built-in units of measure.
+            </summary>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.#ctor(System.Int32,System.String,MindFusion.Diagramming.Wpf.Import.MeasureUnitType,System.Double,System.Int32,MindFusion.Diagramming.Wpf.Import.IMeasureUnitConverter)">
+            <summary>
+            Initializes one of the built-in units of measure.
+            </summary>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.#ctor(System.String,MindFusion.Diagramming.Wpf.Import.MeasureUnit,System.Double)">
+            <summary>
+            Initializes a new instance of the MeasureUnit class with
+            the specified unit of measure as a base.
+            </summary>
+            <param name="name">
+            The name of the new unit.
+            </param>
+            <param name="baseUnit">
+            The base of the new unit.
+            </param>
+            <param name="scale">
+            The scale of the new unit, relatively to the base.
+            </param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.#ctor(System.String,MindFusion.Diagramming.Wpf.Import.MeasureUnit,System.Double,System.Int32)">
+            <summary>
+            Initializes a new instance of the MeasureUnit class with
+            the specified unit of measure as a base.
+            </summary>
+            <param name="name">
+            The name of the new unit.
+            </param>
+            <param name="baseUnit">
+            The base of the new unit.
+            </param>
+            <param name="scale">
+            The scale of the new unit, relatively to the base.
+            </param>
+            <param name="standardDivisions">
+            The number of divisions of the new unit.
+            </param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.#ctor(System.String,System.Double)">
+            <summary>
+            Initializes a new instance of the MeasureUnit class with
+            the specified amount.
+            </summary>
+            <param name="name">
+            The name of the new unit.
+            </param>
+            <param name="unitsPerInch">
+            The amount of the new unit that is equal to one inch.
+            </param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.#ctor(System.String,System.Double,System.Int32)">
+            <summary>
+            Initializes a new instance of the MeasureUnit class with
+            the specified amount.
+            </summary>
+            <param name="name">
+            The name of the new unit.
+            </param>
+            <param name="unitsPerInch">
+            The amount of the new unit that is equal to one inch.
+            </param>
+            <param name="standardDivisions">
+            The number of divisions of the new unit.
+            </param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.ToString">
+            <summary>
+            Object.ToString override.
+            </summary>
+            <returns>
+            The name of the unit.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.GetHashCode">
+            <summary>
+            Object.GetHashCode override.
+            </summary>
+            <returns>
+            A hash code for the current unit.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Equals(System.Object)">
+            <summary>
+            Object.Equals override.
+            </summary>
+            <param name="obj">
+            The object to compare with the current unit.
+            </param>
+            <returns>
+            true if the specified object is the same as or is equal to the current unit;
+            otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Equals(MindFusion.Diagramming.Wpf.Import.MeasureUnit)">
+            <summary>
+            Determines whether the specified measure unit is equal to the current measure unit.
+            </summary>
+            <param name="unit">
+            The object to compare to this measure unit.
+            </param>
+            <returns>
+            true if the specified measure unit is equal to this object; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.op_Equality(MindFusion.Diagramming.Wpf.Import.MeasureUnit,MindFusion.Diagramming.Wpf.Import.MeasureUnit)">
+            <summary>
+            Compares two MeasureUnit objects for equality.
+            </summary>
+            <param name="a">
+            The first MeasureUnit to compare.
+            </param>
+            <param name="b">
+            The second MeasureUnit to compare.
+            </param>
+            <returns>
+            true if the specified arguments are equal; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.op_Inequality(MindFusion.Diagramming.Wpf.Import.MeasureUnit,MindFusion.Diagramming.Wpf.Import.MeasureUnit)">
+            <summary>
+            Compares two MeasureUnit objects for inequality.
+            </summary>
+            <param name="a">
+            The first MeasureUnit to compare.
+            </param>
+            <param name="b">
+            The second MeasureUnit to compare.
+            </param>
+            <returns>
+            true if the specified arguments are not equal; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Convert(System.Double,MindFusion.Diagramming.Wpf.Import.MeasureUnit,System.Object)">
+            <summary>
+            Converts the specified value from this unit to the specified unit.
+            </summary>
+            <param name="value">
+            The value to convert, expressed in the current measure unit.
+            </param>
+            <param name="targetUnit">
+            The target measure unit.
+            </param>
+            <param name="context">
+            A parameter that is used when converting from logical units (such as
+            inches and millimeters) to device units (such as pixels) or special units.
+            This can be either Graphics, IGraphics, or IResolution.
+            </param>
+            <returns>
+            The converted value.
+            </returns>
+            <remarks>
+            If the target represents logical unit (such as millimeter, inch, point) or
+            a unit derived from a logical unit, and the current unit is not logical
+            (for example pixel), the third parameter is required to perform the conversion.
+            </remarks>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Convert(System.Double,MindFusion.Diagramming.Wpf.Import.MeasureUnit,System.Object,MindFusion.Diagramming.Wpf.Import.Axis)">
+            <summary>
+            Converts the specified value from this unit to the specified unit.
+            </summary>
+            <param name="value">
+            The value to convert, expressed in the current measure unit.
+            </param>
+            <param name="targetUnit">
+            The target measure unit.
+            </param>
+            <param name="context">
+            A parameter that is used when converting from logical units (such as
+            inches and millimeters) to device units (such as pixels) or special units.
+            This can be either Graphics, IGraphics, or IResolution.
+            </param>
+            <param name="axis">
+            One of the coordinate axes.
+            </param>
+            <returns>
+            The converted value.
+            </returns>
+            <remarks>
+            If the target represents logical unit (such as millimeter, inch, point) or
+            a unit derived from a logical unit, and the current unit is not logical
+            (for example pixel), the third parameter is required to perform the conversion.
+            </remarks>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Convert(System.Windows.Point,MindFusion.Diagramming.Wpf.Import.MeasureUnit,System.Object)">
+            <summary>
+            Converts the specified point from this unit to the specified unit.
+            </summary>
+            <param name="p">
+            The point to convert, expressed in the current measure unit.
+            </param>
+            <param name="targetUnit">
+            The target measure unit.
+            </param>
+            <param name="context">
+            A parameter that is used when converting from logical units (such as
+            inches and millimeters) to device units (such as pixels) or special units.
+            This can be either Graphics, IGraphics, or IResolution.
+            </param>
+            <returns>
+            The converted point.
+            </returns>
+            <remarks>
+            If the target represents logical unit (such as millimeter, inch, point) or
+            a unit derived from a logical unit, and the current unit is not logical
+            (for example pixel), the third parameter is required to perform the
+            conversion. If both units are of the same generic type, graphics is ignored.
+            </remarks>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Convert(System.Windows.Rect,MindFusion.Diagramming.Wpf.Import.MeasureUnit,System.Object)">
+            <summary>
+            Converts the specified rectangle from this unit to the specified unit.
+            </summary>
+            <param name="r">
+            The rectangle to convert, expressed in the current measure unit.
+            </param>
+            <param name="targetUnit">
+            The target measure unit.
+            </param>
+            <param name="context">
+            A parameter that is used when converting from logical units (such as
+            inches and millimeters) to device units (such as pixels) or special units.
+            This can be either Graphics, IGraphics, or IResolution.
+            </param>
+            <returns>
+            The converted rectangle.
+            </returns>
+            <remarks>
+            If the target represents logical unit (such as mm, inch, point) or
+            a unit derived from a logical unit, and the current unit is not logical
+            (for example pixel), the third parameter is required to perform the
+            conversion. If both units are of the same generic type, graphics is ignored.
+            </remarks>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.FromId(System.Int32)">
+            <summary>
+            Returns a MeasureUnit from its integer identifier.
+            </summary>
+            <param name="id">
+            The identifier of one of the built-in measure units.
+            </param>
+            <returns>
+            The built-in MeasureUnit corresponding to the specified identifier.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.MeasureUnit.FromGraphicsUnit(MindFusion.Diagramming.Wpf.GraphicsUnit)">
+            <summary>
+            Returns the measure unit corresponding to the specified graphics unit.
+            </summary>
+            <param name="unit">
+            One of the GraphicsUnit values.
+            </param>
+            <returns>
+            The built-in MeasureUnit corresponding to the specified graphics unit.
+            If unit is World, this method returns null. If unit is Display, this
+            method returns Pixel.
+            </returns>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Millimeter">
+            <summary>
+            Specifies millimeters as the unit of measure.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Inch">
+            <summary>
+            Specifies inches as the unit of measure.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Point">
+            <summary>
+            Specifies printer's points (1/72 inch) as the unit of measure.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Pixel">
+            <summary>
+            Specifies device pixels as the unit of measure.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Document">
+            <summary>
+            Specifies document units (1/300 inch) as the unit of measure.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnit.WpfPoint">
+            <summary>
+            Specifies device-independent pixels (1/96 inch) as the unit of measure.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Centimeter">
+            <summary>
+            Specifies millimeters as the unit of measure.
+            </summary>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.MeasureUnit.DefaultUnits">
+            <summary>
+            Gets a collection with all built-in measure units.
+            </summary>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Id">
+            <summary>
+            Gets the unit identifier.
+            </summary>
+            <remarks>
+            This property returns -1 for custom MeasureUnit objects.
+            </remarks>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Name">
+            <summary>
+            Gets the name of the unit.
+            </summary>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Type">
+            <summary>
+            Gets the generic type of the unit.
+            </summary>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.MeasureUnit.Amount">
+            <summary>
+            Gets the unit's amount.
+            </summary>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.MeasureUnit.StandardDivisions">
+            <summary>
+            Gets the number of subunits that measures of this unit type are commonly divided to.
+            </summary>
+        </member>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.MeasureUnitType">
+            <summary>
+            Specifies the type of a unit of measure.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnitType.Logical">
+            <summary>
+            Indicates logical unit of measure, expressed as units-per-inch.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnitType.Device">
+            <summary>
+            Indicates device-dependent unit of measure, expressed in device pixels.
+            </summary>
+            <remarks>
+            Converting from/to device units requires as additional information
+            the DPI of the target device.
+            </remarks>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.MeasureUnitType.Special">
+            <summary>
+            Indicates special unit of measure.
+            </summary>
+            <remarks>
+            Converting from/to special units is performed through a user-supplied delegate.
+            </remarks>
+        </member>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.Axis">
+            <summary>
+            Specifies a coordinate axis.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.Axis.X">
+            <summary>
+            Indicates the x-coordinate exis.
+            </summary>
+        </member>
+        <member name="F:MindFusion.Diagramming.Wpf.Import.Axis.Y">
+            <summary>
+            Indicates the y-coordinate exis.
+            </summary>
+        </member>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.IResolution">
+            <summary>
+            Provides information about device resolution.
+            </summary>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.IResolution.DpiX">
+            <summary>
+            Gets the horizontal resolution of the device.
+            </summary>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.IResolution.DpiY">
+            <summary>
+            Gets the vertical resolution of the device.
+            </summary>
+        </member>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.IMeasureUnitConverter">
+            <summary>
+            Provides means to convert between cross-type measure units.
+            </summary>
+        </member>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.PixelConverter">
+            <summary>
+            Represents a converter that can transform pixel values from/to
+            logical units.
+            </summary>
+        </member>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.MeasureUnitConverter">
+            <summary>
+            Represents a TypeConverter for MeasureUnit objects.
+            </summary>
+        </member>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.DrawImporter">
+            <summary>
+            DrawImporter lets you import an OpenOffice Draw document 
+            into a Diagram or DiagramDocument object.
+            </summary>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.DrawImporter.#ctor">
+            <summary>
+            Initializes a new instance of the DrawImporter class.
+            </summary>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.DrawImporter.Import(System.String)">
+            <summary>
+            Imports the specified OpenOffice Draw document into a new DiagramDocument,
+            where each Draw page is imported into a separate DiagramPage of the DiagramDocument.
+            </summary>
+            <param name="filePath">A string specifying the path to the .odg file.</param>
+            <returns>A DiagramDocument containing the imported OpenOffice drawing.</returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.DrawImporter.Import(System.String,MindFusion.Diagramming.Wpf.DiagramDocument)">
+            <summary>
+            Imports the specified OpenOffice Draw document into an existing DiagramDocument,
+            where each Draw page is imported into a separate DiagramPage of the DiagramDocument.
+            </summary>
+            <param name="filePath">A string specifying the path to the .odg file.</param>
+            <param name="document">A DiagramDocument into which to import the OpenOffice drawing.</param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.DrawImporter.Import(System.String,MindFusion.Diagramming.Wpf.Diagram)">
+            <summary>
+            Imports the specified OpenOffice Draw document into the specified Diagram.
+            </summary>
+            <param name="filePath">A string specifying the path to the .odg file.</param>
+            <param name="diagram">A Diagram into which to import the OpenOffice drawing.</param>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.DrawImporter.PagesPerRow">
+            <summary>
+            Gets or sets how many Draw pages to import on a row before
+            offsetting the import location vertically.
+            </summary>
+        </member>
+        <member name="T:MindFusion.Diagramming.Wpf.Import.Measure">
+            <summary>
+            Represents amounts of specific units.
+            </summary>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.#ctor(System.Double)">
+            <summary>
+            Initializes a new instance of the Measure class.
+            </summary>
+            <param name="amount">
+            The number of pixels represented by the new object.
+            </param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.#ctor(System.Double,MindFusion.Diagramming.Wpf.Import.MeasureUnit)">
+            <summary>
+            Initializes a new instance of the Measure class.
+            </summary>
+            <param name="amount">
+            The amount represented by the new object.
+            </param>
+            <param name="unit">
+            The measure unit of the new object.
+            </param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the Measure class.
+            </summary>
+            <param name="value">
+            A string representing the amount and, optionally, units of measure.
+            </param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.#ctor(System.String,System.IFormatProvider)">
+            <summary>
+            Initializes a new instance of the Measure class.
+            </summary>
+            <param name="value">
+            A string representing the amount and, optionally, units of measure.
+            </param>
+            <param name="provider">
+            An IFormatProvider object that is used to interpret the specified value.
+            </param>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.ToString">
+            <summary>
+            Object.ToString override.
+            </summary>
+            <returns>
+            The string representation of the current object.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.ToString(System.IFormatProvider)">
+            <summary>
+            Returns a string representation of the current measure.
+            </summary>
+            <param name="provider">
+            An IFormatProvider object that is used to format the amount.
+            </param>
+            <returns>
+            The string representation of the current object.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.Equals(System.Object)">
+            <summary>
+            Object.Equals override.
+            </summary>
+            <param name="obj">
+            The object to compare to this measure.
+            </param>
+            <returns>
+            true if the specified object is a Measure equal to this object; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.Equals(MindFusion.Diagramming.Wpf.Import.Measure)">
+            <summary>
+            Determines whether the specified measure is equal to the current measure.
+            </summary>
+            <param name="other">
+            The object to compare to this measure.
+            </param>
+            <returns>
+            true if the specified measure is equal to this object; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.GetHashCode">
+            <summary>
+            Object.GetHashCode override.
+            </summary>
+            <returns>
+            A hash code for the current object.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.op_Implicit(System.Double)~MindFusion.Diagramming.Wpf.Import.Measure">
+            <summary>
+            Converts the specified double value to a Measure object representing
+            the same amount of pixels.
+            </summary>
+            <param name="value">
+            The value to convert.
+            </param>
+            <returns>
+            A Measure object representing the specified double value.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.op_Implicit(System.String)~MindFusion.Diagramming.Wpf.Import.Measure">
+            <summary>
+            Converts the specified string to a Measure object.
+            </summary>
+            <param name="value">
+            The value to convert.
+            </param>
+            <returns>
+            A Measure object representing the specified string.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.op_Equality(MindFusion.Diagramming.Wpf.Import.Measure,MindFusion.Diagramming.Wpf.Import.Measure)">
+            <summary>
+            Compares two Measure objects for equality.
+            </summary>
+            <param name="a">
+            The first object to compare.
+            </param>
+            <param name="b">
+            The second object to compare.
+            </param>
+            <returns>
+            true if the two specified objects are equal; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.op_Inequality(MindFusion.Diagramming.Wpf.Import.Measure,MindFusion.Diagramming.Wpf.Import.Measure)">
+            <summary>
+            Compares two Measure objects for inequality.
+            </summary>
+            <param name="a">
+            The first object to compare.
+            </param>
+            <param name="b">
+            The second object to compare.
+            </param>
+            <returns>
+            true if the two specified objects are not equal; otherwise, false.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.op_Addition(MindFusion.Diagramming.Wpf.Import.Measure,System.Double)">
+            <summary>
+            Adds the specified amount to the specified Measure object.
+            </summary>
+            <param name="measure">
+            The Measure object to add to.
+            </param>
+            <param name="value">
+            The amount to add.
+            </param>
+            <returns>
+            A new Measure object representing the new amount, in the same
+            unit as the original object.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.op_Subtraction(MindFusion.Diagramming.Wpf.Import.Measure,System.Double)">
+            <summary>
+            Subtracts the specified amount from the specified Measure object.
+            </summary>
+            <param name="measure">
+            The Measure object to subtract from.
+            </param>
+            <param name="value">
+            The amount to subtract.
+            </param>
+            <returns>
+            A new Measure object representing the new amount, in the same
+            unit as the original object.
+            </returns>
+        </member>
+        <member name="M:MindFusion.Diagramming.Wpf.Import.Measure.ConvertTo(MindFusion.Diagramming.Wpf.Import.MeasureUnit,System.Object)">
+            <summary>
+            Converts the amount represented by the current object to the specified unit.
+            </summary>
+            <param name="targetUnit">
+            A MeasureUnit object representing the unit to convert to.
+            </param>
+            <param name="context">
+            When converting between logical and device units this should be a Graphics or
+            IGraphics object that provides device resolution information; otherwise this
+            parameter is ignored.
+            </param>
+            <returns>
+            A new Measure object that represents the original amount in the specified unit.
+            </returns>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.Measure.Unit">
+            <summary>
+            Gets the unit of measure of the current object.
+            </summary>
+        </member>
+        <member name="P:MindFusion.Diagramming.Wpf.Import.Measure.Amount">
+            <summary>
+            Gets the amount represented by the current object.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,34 @@
+﻿<Window x:Class="tuto_epic.DimensionPolygone"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:tuto_epic"
+        mc:Ignorable="d" Height="180" Width="300" WindowStartupLocation="CenterOwner" Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel Height="105" Margin="5,5,0,0" VerticalAlignment="Top">
+            <StackPanel Margin="0" Height="20" VerticalAlignment="Top" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="Shape properties:" FontWeight="Bold"/>
+            </StackPanel>
+            <StackPanel Margin="0" Height="20" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="Width:" Width="100"/>
+                <TextBox x:Name="wTextBox" TextWrapping="Wrap" Width="120" Text="120" MaxLength="4" MaxLines="1"/>
+            </StackPanel>
+            <StackPanel Margin="0" Height="20" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="Height:" Width="100"/>
+                <TextBox x:Name="hTextBox" TextWrapping="Wrap" Width="120" Text="120" MaxLength="4" MaxLines="1"/>
+            </StackPanel>
+            <StackPanel Margin="0" Orientation="Horizontal"/>
+            <StackPanel Margin="0" Height="20" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="Corner radius:" Width="100"/>
+                <TextBox x:Name="rTextBox" TextWrapping="Wrap" Width="120" Text="0" MaxLength="4" MaxLines="1"/>
+            </StackPanel>
+            <StackPanel Margin="0" Height="20" Orientation="Horizontal">
+                <TextBlock TextWrapping="Wrap" Text="Stroke thickness:" Width="100"/>
+                <TextBox x:Name="sTextBox" TextWrapping="Wrap" Width="120" Text="1" MaxLength="3" MaxLines="1"/>
+            </StackPanel>
+        </StackPanel>
+        <Button x:Name="okButton" Content="OK" HorizontalAlignment="Left" Margin="202,110,0,0" VerticalAlignment="Top" Width="60" Height="20" FontSize="10" Click="okButton_Click" IsDefault="True"/>
+
+    </Grid>
+</Window>

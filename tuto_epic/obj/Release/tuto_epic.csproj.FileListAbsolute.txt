@@ -1,0 +1,463 @@
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\bin\Release\tuto_epic.exe.config
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\bin\Release\tuto_epic.exe
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\bin\Release\tuto_epic.pdb
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\bin\Release\MaterialDesignColors.dll
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\bin\Release\MaterialDesignColors.pdb
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic.csprojAssemblyReference.cache
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\icons.baml
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\BrushWindow.g.cs
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\ColorPickerWindow.g.cs
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\DimensionPolygone.g.cs
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\MainWindow.g.cs
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\App.g.cs
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic_MarkupCompile.cache
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic_MarkupCompile.lref
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\App.baml
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\BrushWindow.baml
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\ColorPickerWindow.baml
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\DimensionPolygone.baml
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\MainWindow.baml
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic.g.resources
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic.Properties.Resources.resources
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic.csproj.GenerateResource.cache
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic.csproj.CoreCompileInputs.cache
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic.csproj.CopyComplete
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic.exe
+C:\Users\meryem\Downloads\projet-final-chweya\projet-final-chweya\tuto_epic-20210526T125231Z-001\tuto_epic\tuto_epic\obj\Release\tuto_epic.pdb
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\icons.baml
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\BrushWindow.g.cs
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\ColorPickerWindow.g.cs
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\DimensionPolygone.g.cs
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\MainWindow.g.cs
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\App.g.cs
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic_MarkupCompile.cache
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic_MarkupCompile.lref
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic.exe
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic.pdb
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\bin\Release\tuto_epic.exe.config
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\bin\Release\tuto_epic.exe
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\bin\Release\tuto_epic.pdb
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\bin\Release\MaterialDesignColors.dll
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\bin\Release\MaterialDesignColors.pdb
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\App.baml
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\BrushWindow.baml
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\ColorPickerWindow.baml
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\DimensionPolygone.baml
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\MainWindow.baml
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic.g.resources
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic.Properties.Resources.resources
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Meriem_final\tuto_epic\obj\Release\tuto_epic.csproj.CopyComplete
+D:\MeriemVersion\tuto_epic\bin\Release\tuto_epic.exe.config
+D:\MeriemVersion\tuto_epic\bin\Release\tuto_epic.exe
+D:\MeriemVersion\tuto_epic\bin\Release\tuto_epic.pdb
+D:\MeriemVersion\tuto_epic\bin\Release\MaterialDesignColors.dll
+D:\MeriemVersion\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\MeriemVersion\tuto_epic\bin\Release\MaterialDesignColors.pdb
+D:\MeriemVersion\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\MeriemVersion\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic.csproj.AssemblyReference.cache
+D:\MeriemVersion\tuto_epic\obj\Release\icons.baml
+D:\MeriemVersion\tuto_epic\obj\Release\BrushWindow.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\ColorPickerWindow.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\DimensionPolygone.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\MainWindow.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\App.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic_MarkupCompile.cache
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic_MarkupCompile.lref
+D:\MeriemVersion\tuto_epic\obj\Release\App.baml
+D:\MeriemVersion\tuto_epic\obj\Release\BrushWindow.baml
+D:\MeriemVersion\tuto_epic\obj\Release\ColorPickerWindow.baml
+D:\MeriemVersion\tuto_epic\obj\Release\DimensionPolygone.baml
+D:\MeriemVersion\tuto_epic\obj\Release\MainWindow.baml
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic.g.resources
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic.Properties.Resources.resources
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic.csproj.GenerateResource.cache
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic.csproj.CoreCompileInputs.cache
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic.csproj.CopyComplete
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic.exe
+D:\MeriemVersion\tuto_epic\obj\Release\tuto_epic.pdb
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Cercle.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Polygone.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Aide.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Cercle.baml
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.baml
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Polygone.baml
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.baml
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.baml
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.baml
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.baml
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Aide.baml
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Rotation.g.cs
+D:\MeriemVersion\tuto_epic\obj\Release\Boites de Dialogues\Rotation.baml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\tuto_epic.exe.config
+D:\Version_Presque_Finale\tuto_epic\bin\Release\tuto_epic.exe
+D:\Version_Presque_Finale\tuto_epic\bin\Release\tuto_epic.pdb
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MaterialDesignColors.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MaterialDesignColors.pdb
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic.csproj.AssemblyReference.cache
+D:\Version_Presque_Finale\tuto_epic\obj\Release\icons.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Cercle.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\CreePolyLine.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Creation.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Rotation.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Polygone.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Aide.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\BrushWindow.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\ColorPickerWindow.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\DimensionPolygone.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\MainWindow.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\App.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic_MarkupCompile.cache
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic_MarkupCompile.lref
+D:\Version_Presque_Finale\tuto_epic\obj\Release\App.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Cercle.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Rotation.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Polygone.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Aide.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\BrushWindow.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\ColorPickerWindow.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\DimensionPolygone.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\MainWindow.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\CreePolyLine.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\Creation.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic.g.resources
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic.Properties.Resources.resources
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic.csproj.GenerateResource.cache
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic.csproj.CoreCompileInputs.cache
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic.csproj.CopyComplete
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic.exe
+D:\Version_Presque_Finale\tuto_epic\obj\Release\tuto_epic.pdb
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Exceptions\ComboImpossible.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Exceptions\Pile2PolyMin.g.cs
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Barcodes.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Common.Wpf.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DrawImport.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DxfExport.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.ExcelExport.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.PdfExport.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.SvgExport.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioExport.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioImport.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.WmfExport.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Graphs.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Licensing.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Pdf.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Scripting.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Svg.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Vsx.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Zip.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Common.dll
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.xml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DrawImport.xml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DxfExport.xml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.ExcelExport.xml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.PdfExport.xml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.SvgExport.xml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioExport.xml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioImport.xml
+D:\Version_Presque_Finale\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.WmfExport.xml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Exceptions\ComboImpossible.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Exceptions\Pile2PolyMin.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Exceptions\FormatIncorrecte.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Exceptions\FormatIncorrecte.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Exceptions\Invalide.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Exceptions\Invalide.baml
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\RotationAll.g.cs
+D:\Version_Presque_Finale\tuto_epic\obj\Release\Boites de Dialogues\RotationAll.baml
+D:\Finale_Ihssene\tuto_epic\bin\Release\tuto_epic.exe.config
+D:\Finale_Ihssene\tuto_epic\bin\Release\tuto_epic.exe
+D:\Finale_Ihssene\tuto_epic\bin\Release\tuto_epic.pdb
+D:\Finale_Ihssene\tuto_epic\bin\Release\MaterialDesignColors.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Barcodes.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Common.Wpf.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DrawImport.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DxfExport.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.ExcelExport.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.PdfExport.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.SvgExport.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioExport.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioImport.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.WmfExport.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Graphs.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Licensing.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Pdf.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Scripting.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Svg.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Vsx.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Zip.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Common.dll
+D:\Finale_Ihssene\tuto_epic\bin\Release\MaterialDesignColors.pdb
+D:\Finale_Ihssene\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.pdb
+D:\Finale_Ihssene\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DrawImport.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DxfExport.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.ExcelExport.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.PdfExport.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.SvgExport.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioExport.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioImport.xml
+D:\Finale_Ihssene\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.WmfExport.xml
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic.csproj.AssemblyReference.cache
+D:\Finale_Ihssene\tuto_epic\obj\Release\icons.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Cercle.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\CreePolyLine.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Creation.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\RotationAll.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Rotation.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Polygone.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Aide.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\BrushWindow.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\ColorPickerWindow.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\DimensionPolygone.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Exceptions\ComboImpossible.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Exceptions\FormatIncorrecte.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Exceptions\Invalide.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\Exceptions\Pile2PolyMin.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\MainWindow.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\App.g.cs
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic_MarkupCompile.cache
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic_MarkupCompile.lref
+D:\Finale_Ihssene\tuto_epic\obj\Release\App.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Cercle.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\CreePolyLine.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Creation.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\RotationAll.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Rotation.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Polygone.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Boites de Dialogues\Aide.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\BrushWindow.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\ColorPickerWindow.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\DimensionPolygone.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Exceptions\ComboImpossible.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Exceptions\FormatIncorrecte.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Exceptions\Invalide.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\Exceptions\Pile2PolyMin.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\MainWindow.baml
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic.g.resources
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic.Properties.Resources.resources
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic.csproj.GenerateResource.cache
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic.csproj.CoreCompileInputs.cache
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic.csproj.CopyComplete
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic.exe
+D:\Finale_Ihssene\tuto_epic\obj\Release\tuto_epic.pdb
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\tuto_epic.exe.config
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\tuto_epic.exe
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\tuto_epic.pdb
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignColors.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Barcodes.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Common.Wpf.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DrawImport.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DxfExport.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.ExcelExport.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.PdfExport.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.SvgExport.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioExport.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioImport.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.WmfExport.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Graphs.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Licensing.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Pdf.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Scripting.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Svg.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Vsx.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Zip.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Common.dll
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignColors.pdb
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DrawImport.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DxfExport.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.ExcelExport.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.PdfExport.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.SvgExport.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioExport.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioImport.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.WmfExport.xml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.csprojAssemblyReference.cache
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\icons.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Cercle.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\CreePolyLine.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Creation.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\RotationAll.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Rotation.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Polygone.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Aide.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\BrushWindow.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\ColorPickerWindow.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\DimensionPolygone.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\ComboImpossible.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\FormatIncorrecte.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\Invalide.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\Pile2PolyMin.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\MainWindow.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\App.g.cs
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic_MarkupCompile.cache
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic_MarkupCompile.lref
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\App.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Cercle.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\CreePolyLine.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Creation.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\RotationAll.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Rotation.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Polygone.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Aide.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\BrushWindow.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\ColorPickerWindow.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\DimensionPolygone.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\ComboImpossible.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\FormatIncorrecte.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\Invalide.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\Pile2PolyMin.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\MainWindow.baml
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.g.resources
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.Properties.Resources.resources
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.csproj.GenerateResource.cache
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.csproj.CoreCompileInputs.cache
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.csproj.CopyComplete
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.exe
+C:\Users\MACBOOK\Downloads\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.pdb
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\tuto_epic.exe.config
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\tuto_epic.exe
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\tuto_epic.pdb
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignColors.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Barcodes.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Common.Wpf.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DrawImport.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DxfExport.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.ExcelExport.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.PdfExport.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.SvgExport.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioExport.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioImport.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.WmfExport.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Graphs.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Licensing.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Pdf.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Scripting.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Svg.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Vsx.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Zip.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Common.dll
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignColors.pdb
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DrawImport.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.DxfExport.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.ExcelExport.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.PdfExport.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.SvgExport.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioExport.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.VisioImport.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\bin\Release\MindFusion.Diagramming.Wpf.WmfExport.xml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\icons.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Cercle.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\CreePolyLine.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Creation.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\RotationAll.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Rotation.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Polygone.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Aide.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\BrushWindow.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\ColorPickerWindow.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\DimensionPolygone.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\ComboImpossible.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\FormatIncorrecte.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\Invalide.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\Pile2PolyMin.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\MainWindow.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\App.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic_MarkupCompile.cache
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic_MarkupCompile.lref
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\App.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Cercle.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\CreePolyLine.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Creation.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Enregistrer.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\RotationAll.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Rotation.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Polygone.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\PolyLine.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Quitterpop.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Rctgl.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Supprimer.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Boites de Dialogues\Aide.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\BrushWindow.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\ColorPickerWindow.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\DimensionPolygone.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\ComboImpossible.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\FormatIncorrecte.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\Invalide.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\Exceptions\Pile2PolyMin.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\MainWindow.baml
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.g.resources
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.Properties.Resources.resources
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.csproj.CopyComplete
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.exe
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\tuto_epic.pdb
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\splash.g.cs
+C:\Users\dell\Desktop\Projet_Meeting_2CP\Projet_Meeting_2CP\tuto_epic\obj\Release\splash.baml
